@@ -1,0 +1,8 @@
+# Byte-compiled
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# R history
+.Rhistory
